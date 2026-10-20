@@ -125,38 +125,38 @@
     <div class="text-[10px] text-slate-400 uppercase tracking-wider mb-1 text-center font-bold">GoogleAdsense</div>
     <div class="ad-container" id="ad-left">
       
-      <!-- Slide 1: TIM -->
+      <!-- Slide 1 -->
       <div class="ad-slide active">
-        <a href="https://www.tim.com.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLpHPncLtky8AYfgb6W2hB8TQc7X5XltktE70vlzPkA&s=10" alt="Anúncio TIM">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1015/300/600" alt="Anúncio Exemplo 1">
         </a>
       </div>
 
-      <!-- Slide 2: Univille -->
+      <!-- Slide 2 -->
       <div class="ad-slide">
-        <a href="https://www.univille.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmw8jKMpvNOICwIaubUfzKhYWTmAz0Oh2DCjWzbuOauU5LnlqZm-NGSg&s=10" alt="Anúncio Univille">
+        <a href="https://example.org" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1018/300/600" alt="Anúncio Exemplo 2">
         </a>
       </div>
 
-      <!-- Slide 3: SENAI -->
+      <!-- Slide 3 -->
       <div class="ad-slide">
-        <a href="https://www.sc.senai.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpgSin6mYKP21Dp1WihvxpTDXXhu4l5XMmuMHjxPLolp7yTP09EJkyS6k&s=10" alt="Anúncio SENAI">
+        <a href="https://example.net" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1025/300/600" alt="Anúncio Exemplo 3">
         </a>
       </div>
 
-      <!-- Slide 4: Pichau -->
+      <!-- Slide 4 -->
       <div class="ad-slide">
-        <a href="https://www.pichau.com.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOviFE-DdpqlZzOMK2b20A49pV7rd6s8kcAXC4tabzyH-mBrLnmfpWnWE&s=10" alt="Anúncio Pichau">
+        <a href="https://example.edu" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1039/300/600" alt="Anúncio Exemplo 4">
         </a>
       </div>
 
-      <!-- Slide 5: Alura Cursos -->
+      <!-- Slide 5 -->
       <div class="ad-slide">
-        <a href="https://www.alura.com.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://inspi.com.br/wp-content/uploads/2026/05/alura-logo.jpg" alt="Anúncio Cursos de Tecnologia">
+        <a href="https://example.com/cursos" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1043/300/600" alt="Anúncio Exemplo 5">
         </a>
       </div>
 
@@ -625,38 +625,38 @@
     <div class="text-[10px] text-slate-400 uppercase tracking-wider mb-1 text-center font-bold">GoogleAdsense</div>
     <div class="ad-container" id="ad-right">
       
-      <!-- Slide 1: Univille -->
+      <!-- Slide 1 -->
       <div class="ad-slide active">
-        <a href="https://www.univille.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmw8jKMpvNOICwIaubUfzKhYWTmAz0Oh2DCjWzbuOauU5LnlqZm-NGSg&s=10" alt="Anúncio Univille">
+        <a href="https://example.org" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1018/300/600" alt="Anúncio Exemplo 1">
         </a>
       </div>
 
-      <!-- Slide 2: TIM -->
+      <!-- Slide 2 -->
       <div class="ad-slide">
-        <a href="https://www.tim.com.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLpHPncLtky8AYfgb6W2hB8TQc7X5XltktE70vlzPkA&s=10" alt="Anúncio TIM">
+        <a href="https://example.com" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1015/300/600" alt="Anúncio Exemplo 2">
         </a>
       </div>
 
-      <!-- Slide 3: Pichau -->
+      <!-- Slide 3 -->
       <div class="ad-slide">
-        <a href="https://www.pichau.com.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOviFE-DdpqlZzOMK2b20A49pV7rd6s8kcAXC4tabzyH-mBrLnmfpWnWE&s=10" alt="Anúncio Pichau">
+        <a href="https://example.edu" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1039/300/600" alt="Anúncio Exemplo 3">
         </a>
       </div>
 
-      <!-- Slide 4: SENAI -->
+      <!-- Slide 4 -->
       <div class="ad-slide">
-        <a href="https://www.sc.senai.br" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLPGkZs9teirhKzH8WIko6UK4-z3FQjTwOs9MtnkbVg&s=10" alt="Anúncio SENAI">
+        <a href="https://example.net" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1025/300/600" alt="Anúncio Exemplo 4">
         </a>
       </div>
 
-      <!-- Slide 5: FIAP Cursos -->
+      <!-- Slide 5 -->
       <div class="ad-slide">
-        <a href="https://www.fiap.com.br/" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8dH6zvVabPgSmpJu7wCpi5ciUMKvkM3q3RXlzA8KnnKbEVDIsTUYXL4&s=10" alt="Anúncio Cursos de Tecnologia">
+        <a href="https://example.com/cursos" target="_blank" rel="noopener noreferrer" class="block w-full h-full">
+          <img src="https://picsum.photos/id/1043/300/600" alt="Anúncio Exemplo 5">
         </a>
       </div>
 
