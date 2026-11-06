@@ -89,7 +89,7 @@ __Passo a Passo__
 
 1. __Clonar o Repositório:__
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/th4tyana/altiphp.git
    cd ALTIPHP
    
 __Configurar o Banco de Dados:__
