@@ -36,7 +36,7 @@ A aplicação foi desenvolvida de forma nativa visando alta performance e sem de
 ##  Estrutura do Projeto
 
 ```text
-NEXUSSTUDY/
+ALTIPHP/
 ├── config/
 │   └── database.php          # Conexão segura e padrão Singleton PDO
 ├── controllers/
@@ -69,3 +69,48 @@ NEXUSSTUDY/
 │   └── autenticacao-banco-de-dados.md
 ├── index.php                 # Ponto de entrada da aplicação (Bootstrap)
 └── schema.sql                # Script de criação do Banco de Dados
+
+```
+
+### Como Executar o Projeto
+
+__Pré-requisitos__
+
+* **PHP 8.1+** instalado na máquina.
+* **Extensões** nativas habilitadas no `php.ini`:
+* **`extension=pdo_mysql`** (ou o driver correspondente ao seu SGBD)
+* **`extension=zip`**
+* **`extension=fileinfo`** (obrigatória para validação de MIME types em uploads)
+- Servidor de banco de dados **MySQL** ou **PostgreSQL**.
+
+---
+
+__Passo a Passo__
+
+1. __Clonar o Repositório:__
+   ```bash
+   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   cd ALTIPHP
+   
+__Configurar o Banco de Dados:__
+
+Crie a base de dados no seu SGBD de preferência.
+
+Execute o script schema.sql no seu banco para criar as tabelas necessárias.
+
+Ajuste as credenciais de acesso no arquivo config/database.php.
+
+__Iniciar o Servidor Embutido:__
+
+Na raiz do projeto, execute:
+
+__Bash__
+php -S localhost:8080
+Acesse a aplicação pelo navegador em http://localhost:8080.
+
+__Executando os Testes__
+
+Para executar os testes automatizados de segurança em uploads (validação de MIME type), utilize o comando especificando limite temporário de memória:
+
+__Bash__
+php -d memory_limit=512M tests/upload_security_test.php
