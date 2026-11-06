@@ -112,5 +112,5 @@ __Executando os Testes__
 
 Para executar os testes automatizados de segurança em uploads (validação de MIME type), utilize o comando especificando limite temporário de memória:
 
-__Bash__
+ ```bash
 php -d memory_limit=512M tests/upload_security_test.php
